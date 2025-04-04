@@ -1,4 +1,4 @@
-# All-About-IPE-Drawing-Tutorial
+# IPE Drawing Tutorial
 This repository is all about IPE Drawing Software Tutorial.
 
 Certainly! Here's a comprehensive tutorial to help you get started with Ipe, the extensible drawing editor.
