@@ -14,6 +14,11 @@ Ipe is a versatile vector graphics editor designed for creating figures in PDF f
 
 You can download Ipe from its [official website](https://ipe.otfried.org/).
 
+<div align="center">
+  <img src="media/interp.png" width="400">
+  <img src="media/frames.png" width="300">
+</div>
+
 ## Getting Started with Ipe
 
 ### Installation
