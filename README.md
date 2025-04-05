@@ -31,6 +31,20 @@ You can download Ipe from its [official website](https://ipe.otfried.org/).
 
    Alternatively, you can download the source package and compile it as per the instructions on the [Ipe website](https://ipe.otfried.org/).
 
+### Start the Software
+How to visualize:
+Save your provided XML content as a file with .ipe extension, e.g., figure.ipe.
+
+Open a terminal and type:
+```bash
+ipe figure.ipe
+```
+### Exporting to other formats:
+From within Ipe, you can export to PDF, SVG, EPS, or PNG formats via:
+```bash
+File → Export
+```
+
 ### User Interface Overview
 
 Upon launching Ipe, you'll encounter the main window comprising:
