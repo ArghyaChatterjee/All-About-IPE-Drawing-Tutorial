@@ -1,4 +1,4 @@
-# IPE Diagram Drawing Tutorial
+# Robotics Diagram Drawing with IPE
 This repository is all about IPE Drawing Software Tutorial.
 
 ## Introduction to Ipe
