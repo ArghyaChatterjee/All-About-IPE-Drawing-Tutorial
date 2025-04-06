@@ -101,10 +101,13 @@ Once your drawing is complete:
 
 For a more in-depth exploration of Ipe's capabilities:
 
-- **Official Manual**: The [Ipe Manual](https://ipe.otfried.org/ipe-manual.pdf) provides comprehensive documentation.
+- **Official Manual**:
+  - [Ipe Manual](https://ipe.otfried.org/ipe-manual.pdf)
 - **Video Tutorials**:
-   - *Introduction to Ipe Drawing Editor - Tools, Properties, & Snapping*: A practical introduction covering basic tools and features.
-   - *Ipe Tutorial*: A short tutorial demonstrating the use of Ipe for creating figures.
-   - *How to Create Figures in Ipe Drawing Editor*: A step-by-step guide to creating various vector graphics.
+   - [Introduction to Ipe Drawing Editor - Tools, Properties, & Snapping*: A practical introduction covering basic tools and features]()
+   - [Ipe Tutorial: A short tutorial demonstrating the use of Ipe for creating figures]()
+   - [How to Create Figures in Ipe Drawing Editor: A step-by-step guide to creating various vector graphics]()
 
-These resources offer visual guidance and practical examples to enhance the understanding of Ipe.
+
+
+
