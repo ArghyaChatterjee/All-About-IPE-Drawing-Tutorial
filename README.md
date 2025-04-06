@@ -1,7 +1,7 @@
 # Robotics Latex Quality Drawing with IPE
 IPE Latex Quality Drawing Software Tutorial for Robotics.
 
-## Introduction to Ipe
+## Introduction to IPE
 
 Ipe is a versatile vector graphics editor designed for creating figures in PDF format. It's particularly well-suited for producing figures for inclusion in LaTeX documents and crafting multi-page PDF presentations. Key features of Ipe include:
 
@@ -17,7 +17,7 @@ You can download Ipe from its [official website](https://ipe.otfried.org/).
   <img src="media/frames.png" width="300">
 </div>
 
-## Getting Started with Ipe
+## Getting Started with IPE
 
 ### Installation
 
@@ -25,24 +25,30 @@ You can download Ipe from its [official website](https://ipe.otfried.org/).
 2. **macOS**: Download the appropriate disk image (`.dmg`) file for your processor type (Intel or ARM) from the [Ipe website](https://ipe.otfried.org/). Open the disk image and copy `Ipe.app` to your Applications folder.
 3. **Linux**: Ipe is available in the package repositories of several Linux distributions. For instance, on Ubuntu, you can install it using:
 
-   ```bash
-   sudo apt-get install ipe
-   ```
-
-   Alternatively, you can download the source package and compile it as per the instructions on the [Ipe website](https://ipe.otfried.org/).
+```bash
+sudo apt-get install ipe
+```
+Alternatively, you can download the source package and compile it as per the instructions on the [Ipe website](https://ipe.otfried.org/).
 
 ### Start the Software
-How to visualize:
+
 Save your provided XML content as a file with .ipe extension, e.g., figure.ipe.
 
 Open a terminal and type:
 ```bash
 ipe figure.ipe
 ```
-### Exporting to other formats:
-From within Ipe, you can export to PDF, SVG, EPS, or PNG formats via:
+
+### Save as PDF
+From within IPE, you can export to XML(.ipe) or PDF (.pdf) formats via:
 ```bash
-File → Export
+File → Save as → XML / PDF
+```
+
+### Exporting to other formats:
+From within IPE, you can export to SVG, EPS, or PNG formats via:
+```bash
+File → Export → SVG, EPS, or PNG
 ```
 
 ### User Interface Overview
