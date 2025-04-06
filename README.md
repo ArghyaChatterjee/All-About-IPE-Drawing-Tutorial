@@ -92,14 +92,12 @@ Layers allow you to organize your drawing by separating different elements:
 
 ### Exporting Your Work
 
-Once your drawing is complete:
+Once the drawing is complete:
 
-- **Saving**: Save your work in Ipe's native format (`.ipe`) to preserve editability.
-- **Exporting to PDF**: To include your figure in a LaTeX document or for general use, export it as a PDF by selecting `File > Save As` and choosing the PDF format.
+- **Saving**: Save your work in Ipe's native format (`.ipe`) to preserve editability.
+- **Exporting to PDF**: To include your figure in a LaTeX document or for general use, export it as a PDF by selecting `File > Save As` and choosing the PDF format.
 
 ## Additional Resources
-
-For a more in-depth exploration of Ipe's capabilities:
 
 - **Official Manual**:
   - [Ipe Manual](https://ipe.otfried.org/ipe-manual.pdf)
