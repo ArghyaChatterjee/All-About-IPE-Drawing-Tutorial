@@ -39,13 +39,13 @@ Open a terminal and type:
 ipe figure.ipe
 ```
 
-### Save as PDF
+### Save as IPE/PDF
 From within IPE, you can export to XML(.ipe) or PDF (.pdf) formats via:
 ```bash
 File → Save as → XML / PDF
 ```
 
-### Exporting to other formats:
+### Export to Other Formats
 From within IPE, you can export to SVG, EPS, or PNG formats via:
 ```bash
 File → Export → SVG, EPS, or PNG
