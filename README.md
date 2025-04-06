@@ -1,5 +1,5 @@
 # Robotics Latex Quality Drawing with IPE
-This repository is all about IPE Drawing Software Tutorial.
+IPE Latex Quality Drawing Software Tutorial for Robotics.
 
 ## Introduction to Ipe
 
